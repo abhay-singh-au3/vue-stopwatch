@@ -1,4 +1,4 @@
-# t
+# vue-stopwatch
 
 ## Project setup
 ```
